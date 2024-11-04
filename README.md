@@ -33,7 +33,7 @@ The dataset was loaded into Microsoft Excel. It was cleaned by addressing the bl
 
 
 ## FINDINGS
-It is discovered that Shoe products has the highest number of sales at $613,380, while Socks product has the lowest number of sales at $180,785. This makes Shoe the top-selling product and Socks the bottom-selling product Although Shoe product has the highest sales, it does not have the highest number of units sold. The product with the highest number of units sold is Hat at 15,929 units.
+It is discovered that Shoe product has the highest number of sales at $613,380, while Socks product has the lowest number of sales at $180,785. This makes Shoe the top-selling product and Socks the bottom-selling product Although Shoe product has the highest sales, it does not have the highest number of units sold. The product with the highest number of units sold is Hat at 15,929 units.
 February has the highest sales at $546,300 and the highest number of units sold at 9,930 while September has the lowest sales at $34,720.
 Southern region beats other regions with the highest sales at $927,820 and also the region with the highest number of units sold at 24,298. The Western region has the lowest sales at $300,345 and lowest number of units sold at 11,400.
 
