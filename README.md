@@ -34,6 +34,9 @@ The dataset was loaded into Microsoft Excel. It was cleaned by addressing the bl
 
 ![Screenshot 2024-11-05 014109](https://github.com/user-attachments/assets/c7f58db6-a365-430a-b726-c281ae58a4db)
 
+## SALES DATA VISUALIZATION
+![Sales Visual](https://github.com/user-attachments/assets/b4d86485-2fbe-470e-9af1-1c61353fc352)
+
 
 
 ## FINDINGS
