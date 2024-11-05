@@ -26,7 +26,10 @@ PowerBI
 ## METHODOLOGY 
 The dataset was loaded into Microsoft Excel. It was cleaned by addressing the blanks, removing duplicates, and ensuring consistent formats across the cells. Data was summarized by total sales, region, months using the Pivot tables. This gives us summarized information about the dataset. Further, the cleaned dataset was imported into SQL server to perform more analysis by querying the dataset. After obtaining satisfied results, the created views were imported into PowerBI for visualization.
 
-## SCREENSHOTS OF SUMMARIZATION USING PIVOT TABLES
+## SCREENSHOT OF SUMMARIZATION USING PIVOT TABLES
+![FULL PIVOT](https://github.com/user-attachments/assets/3778190f-80b7-4cb8-9d0e-136720e39f8e)
+
+
 	
 
 ## QUERIES FOR THE ANALYSIS
