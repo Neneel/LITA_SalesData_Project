@@ -9,13 +9,13 @@ For this project, I analyzed the sales performance of a retail store. The aim of
 The data was provided by the sales team. It contains summarized customer information and sales details from 2023 to 2024. 
 
 ## TOOLS USED
-### For Data cleaning: 
+For Data cleaning: 
 Microsoft Excel
 
-### For Analysis:
+For Analysis:
 Microsoft Excel and SQL 
 
-### For Visualization: 
+For Visualization: 
 PowerBI
 
 ## FEATURES IDENTIFIED FOR ANALYSIS
