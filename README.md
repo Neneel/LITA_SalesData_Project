@@ -30,7 +30,9 @@ The dataset was loaded into Microsoft Excel. It was cleaned by addressing the bl
 	
 
 ## QUERIES FOR THE ANALYSIS
+![Screenshot 2024-11-05 013926](https://github.com/user-attachments/assets/28a88f4a-0005-4979-a170-e72442e43e3f)
 
+![Screenshot 2024-11-05 014109](https://github.com/user-attachments/assets/c7f58db6-a365-430a-b726-c281ae58a4db)
 
 
 
