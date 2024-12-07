@@ -59,7 +59,8 @@ The dataset was loaded into Microsoft Excel. It was cleaned by addressing the bl
 
 
 ## SALES DATA VISUALIZATION
-![Sales Visual](https://github.com/user-attachments/assets/b4d86485-2fbe-470e-9af1-1c61353fc352)
+![Screenshot 2024-12-07 165129](https://github.com/user-attachments/assets/a97d674e-9cb3-437e-95b5-5cd75ee39e4c)
+
 
 
 
